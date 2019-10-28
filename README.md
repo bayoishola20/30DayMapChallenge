@@ -1,4 +1,4 @@
-# 30 Days Map Challenge <small>(Topi Tjukanov @tjukanov) </small>
+# 30 Days Map Challenge <small>(@tjukanov) </small>
 
 * Day 1: [  ]
 
@@ -62,3 +62,4 @@
 
 
 
+![challenge image](https://github.com/bayoishola20/30DayMapChallenge/blob/master/EHubcA-W4AA7myk.jpeg)
