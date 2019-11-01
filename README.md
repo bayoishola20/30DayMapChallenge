@@ -1,6 +1,6 @@
 # 30 Days Map Challenge <small>(@tjukanov) </small>
 
-* Day 1: [  ]
+* Day 1: [X]
 
 * Day 2
 
