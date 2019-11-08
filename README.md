@@ -16,7 +16,7 @@
 
 - [x] Day 8
 
-* Day 9
+- [x] Day 9
 
 * Day 10
 
